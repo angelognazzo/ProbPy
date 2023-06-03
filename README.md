@@ -1,7 +1,7 @@
 # ProbPy - Probability Riddles and Puzzles
 
 I am working on a project with @LeoPag. 
-You can find more details here: https://github.com/LeoPag/Probability-Riddles. 
+You can find more details [here](https://github.com/LeoPag/ProbPy-Probabilty-Riddles-and-Puzzles). 
 This repository works only as a placeholder for the original one you can find at the link above.
 
 
